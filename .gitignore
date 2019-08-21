@@ -13,7 +13,6 @@
 results/*
 results*/
 data/
-tsdf_integration.ptx
 
 # VisualStudio Project Sheet
 *.props
@@ -234,6 +233,3 @@ smpl/
 # data file
 data/
 package/
-
-# backup file
-CodeFinetunedFromDblfu.zip

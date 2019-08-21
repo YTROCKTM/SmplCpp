@@ -6,3 +6,6 @@ before using the example code, please
   password：wqe3 
 
 2. decompress smpl.zip in VS project folder
+
+# Dependencies
+Eigen 3.3.4
