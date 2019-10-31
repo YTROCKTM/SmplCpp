@@ -9,3 +9,7 @@ before using the example code, please
 
 # Dependencies
 Eigen 3.3.4
+
+# Important Note
+Note that the command will use the SMPL model from https://smpl.is.tue.mpg.de/. 
+Please read the license and citing instructions in https://smpl.is.tue.mpg.de/ carefully before you use this project. 
